@@ -3,10 +3,10 @@
 App for menagiging deliveries.
 Orginally createn for door wholeseller so default products are 'doors' and 'trims' but that can be change in code.
 
-[DEMO](http://rafalkmiecik.com/deliverybuild/)
-Admin login: demoadmin
-Standar user login: demouser
-Password: demo
+[DEMO](http://rafalkmiecik.com/deliverybuild/)<br />
+Admin login: demoadmin<br />
+Standar user login: demouser<br />
+Password: demo<br />
 
 <img src="http://rafalkmiecik.com/sample.jpg" alt="Delivery Schedule Sample" align="right">
 
@@ -25,10 +25,10 @@ You need to create 2 MySQL databases:
 PHP files should be on the same host as rest of files because login cookies won't work if on different hosts.
 
 Admin can edit/cancel existing deliveries and close delivery day to prevent adding additional deliveries.
-Delivery details are visible after clicking on existing delivery, you can see there who created it and when least modification has been made.
-Example:
-Created by user on Wed Jun 09 2021 12:25:14
-Last edited by admin on Wed Jun 09 2021 12:32:18
+Delivery details are visible after clicking on existing delivery, you can see there who created it and when least modification has been made.<br />
+Example:<br />
+Created by user on Wed Jun 09 2021 12:25:14<br />
+Last edited by admin on Wed Jun 09 2021 12:32:18<br />
 
 Standard user can only submit new delivery (if delveries for selected day are not closed).
 
